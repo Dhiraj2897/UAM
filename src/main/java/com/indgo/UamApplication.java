@@ -10,4 +10,5 @@ public class UamApplication {
 		SpringApplication.run(UamApplication.class, args);
 	}
 
+
 }
